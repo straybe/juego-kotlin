@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_general">10dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="text">15dp</dimen>
+    <dimen name="file_size">50dp</dimen>
+</resources>

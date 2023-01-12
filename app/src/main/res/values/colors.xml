@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="paleta_001">#074268</color>
+    <color name="paleta_002">#B0277E</color>
+    <color name="paleta_003">#12649A</color>
+    <color name="paleta_004">#DEDEDE</color>
+    <color name="paleta_005">#DB9728</color>
+
+    <color name="plomo">#212121</color>
+    <color name="black">#151515</color>
+    <color name="white">#DEDEDE</color>
+
+    <color name="color_0">#8C030E</color>
+    <color name="color_1">#264014</color>
+    <color name="color_2">#1A4268</color>
+    <color name="color_3">#7C690E</color>
+    <color name="color_4">#B31A4C</color>
+    <color name="color_5">#2E0259</color>
+</resources>
